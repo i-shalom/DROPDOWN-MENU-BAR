@@ -1,0 +1,43 @@
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body
+{
+ background-position: center;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  background-color: blue;
+  box-sizing: border-box;
+}
+img 
+{
+  max-width: 100;
+  height: 50;
+  border-radius: 15%;
+}
+ul
+{
+  display: inline-flex;
+  list-style: none;
+  color: red;
+}
+ul li
+{
+  width: 100px;
+  margin: 20px;
+  padding: 20px;
+}
+active ul li: hover
+{
+  background: brown;
+  border-radius: 3px;
+}
+ li .fa 
+{
+  margin: 10px;
+}
+block;
+  margin: 10px;
+}
